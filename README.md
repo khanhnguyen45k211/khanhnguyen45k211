@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khanhnguyen45k211
-- 👀 I’m interested in read book
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Khanh Nguyen
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning data engineer with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
